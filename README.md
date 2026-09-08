@@ -1,8 +1,8 @@
-# Peter – AI Voice Assistant
+Peter – AI Voice Assistant
 
 Peter is a Python-based AI voice assistant designed to perform common computer and web-based tasks using voice commands.
 
-## Features
+ Features
 
 - Voice command recognition
 - Open Google, YouTube, Gmail, WhatsApp, Facebook, and Instagram
@@ -17,7 +17,7 @@ Peter is a Python-based AI voice assistant designed to perform common computer a
 - Lock the computer
 - Restart and shut down the computer with confirmation
 
-## Technologies Used
+Technologies Used
 
 - Python
 - SpeechRecognition
@@ -28,30 +28,31 @@ Peter is a Python-based AI voice assistant designed to perform common computer a
 - PyGetWindow
 - Screen Brightness Control
 
-## Installation
+ Installation
 
 Install the required Python libraries:
 
+`pip install SpeechRecognition pyttsx3 pyaudio pyautogui screen-brightness-control requests pygetwindow`
 
-pip install SpeechRecognition pyttsx3 pyaudio pyautogui screen-brightness-control requests pygetwindow
-How to Run
+ How to Run
 
 Run the following command:
 
-python "AI voice Assistant.py"
+`python "AI voice Assistant.py"`
 
 Then give voice commands such as:
 
-"Peter open YouTube"
-"Peter play Believer"
-"Peter search AI"
-"Peter open Notepad"
-"Peter calculate 25 plus 50"
-"Peter what's the weather in Rawalpindi"
-"Peter increase volume"
-"Peter take screenshot"
-"Peter stop"
-Project Purpose
+- `Peter open YouTube`
+- `Peter play Believer`
+- `Peter search AI`
+- `Peter open Notepad`
+- `Peter calculate 25 plus 50`
+- `Peter what's the weather in Rawalpindi`
+- `Peter increase volume`
+- `Peter take screenshot`
+- `Peter stop`
+
+ Project Purpose
 
 The purpose of this project is to develop a voice-controlled assistant that can interact with a computer and perform everyday tasks through natural voice commands.
 

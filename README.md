@@ -38,7 +38,7 @@ How to Run
 
 Run the following command:
 
-python peter.py
+python "AI voice Assistant.py"
 
 Then give voice commands such as:
 

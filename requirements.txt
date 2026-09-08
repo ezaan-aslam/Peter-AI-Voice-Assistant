@@ -1,0 +1,7 @@
+SpeechRecognition
+pyttsx3
+PyAudio
+pyautogui
+screen-brightness-control
+requests
+pygetwindow
